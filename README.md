@@ -13,11 +13,13 @@ Create an account by clicking on signup.
 Login and go to the API Tab. Note your API Key.
 
 ## On NodeMCU the connections are as follows.
+<pre>
 NodeMCU             OLED <br />
 3V  ---------------> Vcc <br />
 GND ---------------> GND <br />
 D1  ---------------> SCL <br />
 D2  ---------------> SDA <br />
+</pre>
 
 ## Open the Program in Arduino IDE.
 Select the ESP8266 Module that you are using from the Boards menu and Upload the code to the module.
