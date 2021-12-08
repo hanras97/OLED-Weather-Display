@@ -1,8 +1,6 @@
 # OLED-Weather-Display
 Displays weather details of your city on an OLED display. (in collaboration with @suvam14das)
 
-## Using an oled with arduino --> 
-
 ## Parts Required:
 1. ESP8266 Module (Any one, I used NodeMCU)
 2. 0.96" OLED (I2C Based)
