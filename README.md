@@ -13,7 +13,7 @@ Create an account by clicking on signup.
 Login and go to the API Tab. Note your API Key.
 
 ## On NodeMCU the connections are as follows.
-NodeMCU_____________OLED
+NodeMCU             OLED <br />
 3V  ---------------> Vcc <br />
 GND ---------------> GND <br />
 D1  ---------------> SCL <br />
